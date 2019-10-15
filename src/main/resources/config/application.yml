@@ -11,4 +11,4 @@ graphql:
 logging:
   level:
     ROOT: INFO
-    aero.sita.updates.graphql: DEBUG
+    com.cinq.updates.graphql: DEBUG
