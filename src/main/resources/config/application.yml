@@ -1,0 +1,14 @@
+server:
+  port:
+    8098
+
+graphql:
+  servlet:
+    mapping: /graphql
+    enabled: true
+    corsEnabled: true
+
+logging:
+  level:
+    ROOT: INFO
+    aero.sita.updates.graphql: DEBUG
